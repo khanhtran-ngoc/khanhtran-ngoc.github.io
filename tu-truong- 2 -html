@@ -1,0 +1,17 @@
+<!doctype html>
+<html lang="vi">
+<head>
+     <meta charset="UTF-8">
+     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <title>từ trường</title>
+</head>
+<body>
+    <figure>
+        <img
+            src="nhiet.jpg"
+            style="width: 15%; height: auto;" 
+    </figure>
+
+    <p style="text-align: center;">bài tập giống dao động điều hòa</p>
+</body>
+</html>
